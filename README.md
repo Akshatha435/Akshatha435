@@ -65,45 +65,13 @@ With a strong focus on **analytics, visualization, and business storytelling**, 
   <img src="https://img.shields.io/badge/Data%20Visualization-00BFFF?style=for-the-badge&logo=databricks&logoColor=white" height="28" alt="Data Visualization" />
 </p>
 
-
----
-
-### 🚀 Projects  
-
-| Project | Description | Tools |
-|----------|--------------|--------|
-| 🟢 [Blinkit Sales Performance Dashboard](https://github.com/Akshatha435/Excel-Dashboards/tree/main) | Interactive Excel dashboard analyzing Blinkit’s business KPIs like Sales, Profit, and Outlet performance | Excel, Charts, Slicers |
-| 🔵 [Road Accident Analysis Dashboard](https://github.com/Akshatha435/Excel-Dashboards/tree/main/Road_Accident) | Analyzes road accident trends based on severity, time, and vehicle type | Excel, Pivot Charts |
-| 🍕 [SQL Case Studies](https://github.com/Akshatha435/SQL-Projects) | Business problem-solving using advanced SQL queries & joins | SQL |
-| 🧠 [ML Mini Projects](#) | Simple ML models for prediction, classification, and analytics | Python, Pandas, Scikit-learn |
-
----
-
 ### 🏆 Achievements
 - 🥇 Completed multiple **SQL Case Studies** (Danny’s Diner, Pizza Runner, etc.)  
 - 📊 Built **Interactive Dashboards** in Excel and Power BI  
 - 🧠 Developed **ML Mini Projects** using Python  
 - 🌍 Continuous learner exploring **AI & Data Science Applications**
 
----
-
-### 📈 GitHub Stats & Streaks  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshatha435&show_icons=true&theme=tokyonight&hide_border=false" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Akshatha435&theme=tokyonight&hide_border=false" height="165"/>
-</p>
-
----
-
-### 🏅 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akshatha435&theme=onedark&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
-</p>
-
----
-
+- 
 ### 🧠 Currently Exploring  
 - Feature Engineering & Model Optimization  
 - SQL Performance Tuning & Query Automation  
