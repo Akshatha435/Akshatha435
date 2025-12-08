@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Akshatha KL</h1>
-<h3 align="center">📊 Data Analyst | Power BI | SQL | Excel | Python | Machine Learning</h3>
+<h3 align="center">📊 Data Analyst 
 
 ---
 
